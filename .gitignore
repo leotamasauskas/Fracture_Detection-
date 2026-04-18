@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# Project Directories and Results
+Bone Fractures Detection/
+checkpoints/
+results/
