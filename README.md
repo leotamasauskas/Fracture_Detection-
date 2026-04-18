@@ -1,4 +1,4 @@
-# Detecção de Fraturas Ósseas (Bone Fracture Detection) 🦴
+# Detecção de Fraturas Ósseas (Bone Fracture Detection) 
 
 Este repositório contém um pipeline completo de Deep Learning focado na segmentação semântica binária de fraturas ósseas utilizando PyTorch. 
 
